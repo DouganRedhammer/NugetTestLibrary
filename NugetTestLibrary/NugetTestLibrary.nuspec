@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/DouganRedhammer/NugetTestLibrary/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DouganRedhammer/NugetTestLibrary</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>My first test.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Daniel Franklin NugetTestLibrary</tags>
+  </metadata>
+</package>
